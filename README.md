@@ -7,7 +7,7 @@
 
 - 👯 I’m looking to collaborate on **projects related to machine learning, and web development**
 
-- 👨‍💻 All of my projects are available at [https://portfolioavsr.netlify.app/](https://portfolioavsr.netlify.app/)
+<!-- 👨‍💻 All of my projects are available at [https://portfolioavsr.netlify.app/](https://portfolioavsr.netlify.app/)-->
 
 - 📫 How to reach me **anantvsr001@gmail.com**
 
